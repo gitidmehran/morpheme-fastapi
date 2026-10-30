@@ -1,0 +1,9 @@
+fastapi
+fastapi[standard]
+uvicorn
+mysql-connector-python
+sqlalchemy
+requests
+boto3
+python-multipart
+psycopg2-binary
